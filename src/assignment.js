@@ -23,7 +23,6 @@ function sumOfNumbers(arrayOfNumbers){
 }
 
 console.log(sumOfNumbers(arrayOfNumbers))
-// console.log(sumOfNumbers(arrayOfNumbers))
 assignment.sumOfNumbers = sumOfNumbers;
 
 /**
